@@ -1,0 +1,13 @@
+{
+    "name": "corte-3-taller-de-gitlab-c",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "echo 'No hay nada para compilar'",
+      "test": "echo 'No hay tests definidos'"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
